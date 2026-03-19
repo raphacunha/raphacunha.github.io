@@ -4,7 +4,7 @@ title: ""
 cover-img: "/images/old_stock_market_noir_tonal_tonal_crop.jpg"
 ---
 
-### Published articles
+### Journal articles
 ***
 
 __<a href="https://doi.org/10.31235/osf.io/8b5r6_v1" target="_blank">Financial Markets and Mass Political Attitudes: Evidence from the 2022 Brazilian Election</a>__ (with Sarah M. Brooks & Layna Mosley). _Review of International Political Economy_. Forthcoming.<br>
