@@ -8,8 +8,8 @@ cover-img: "/images/wall_st_lund_crop_noir_tonal_tonal.jpg"
 
 6SSPP406: Political Economy of Global Finance (undergraduate)<br>
 6SSPP389: Corporate Lobbying in the Global Economy (undergraduate)<br>
-7SSPP056: Business and Politics (master's)<br>
-7SSPN131: Political Economy of Finance (master's)
+7SSPP056: Business and Politics (postgraduate)<br>
+7SSPN131: Political Economy of Finance (postgraduate)
 
 #### Florida State University
 
