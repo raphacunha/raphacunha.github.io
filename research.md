@@ -8,7 +8,7 @@ cover-img: "/images/old_stock_market_noir_tonal_tonal_crop.jpg"
 ***
 
 __<a href="https://doi.org/10.1080/09692290.2026.2664516" target="_blank">Financial Markets and Mass Political Attitudes: Evidence from the 2022 Brazilian Election</a>__ (with Sarah M. Brooks & Layna Mosley). _Review of International Political Economy_. Forthcoming.<br>
-[ <a href="https://doi.org/10.1080/09692290.2026.2664516" target="_blank">Publisher</a> \| <a href="https://osf.io/preprints/socarxiv/8b5r6" target="_blank">Preprint PDF</a> ]
+[ <a href="https://doi.org/10.1080/09692290.2026.2664516" target="_blank">Publisher</a> \| <a href="https://osf.io/preprints/socarxiv/8b5r6" target="_blank">Preprint PDF</a> \| <a href="https://doi.org/10.17605/OSF.IO/FPT52" target="_blank">Data and Code</a> \| <a href="https://doi.org/10.17605/OSF.IO/FPT52" target="_blank">Supplemenary Information</a> ]
 
 __<a href="https://doi.org/10.1093/isq/sqae017" target="_blank">Democracy and Markets in a Partially Globalized World: Local and Global Financial Market Responses to Elections in Developing Countries</a>__. 2024. _International Studies Quarterly_ 68(2): sqae017.<br>
 [ <a href="https://doi.org/10.1093/isq/sqae017" target="_blank">Publisher</a> \| <a href="../pdf/Cunha_2024_ISQ.pdf" target="_blank">PDF</a> \| <a href="https://doi.org/10.31235/osf.io/upevz" target="_blank">Preprint PDF</a> \| <a href="https://osf.io/dzjqe" target="_blank">Data and Code</a> \| <a href="https://osf.io/yhe7v" target="_blank">Supplementary Information</a> ]
