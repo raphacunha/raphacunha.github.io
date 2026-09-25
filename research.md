@@ -49,6 +49,6 @@ __<a href="https://doi.org/10.54648/trad2005039" target="_blank">Generalized Sys
 
 "Financial Globalization and Corporate Political Contributions: Firm-Level Evidence from Brazil"
 
-"Why Oppose Foreign Investment? Survey Experimental Evidence from India" (with <a href="http://www.quintinbeazer.com/" target="_blank">Quintin Beazer</a>, <a href="https://www.danieljblake.com/" target="_blank">Daniel Blake</a>, and <a href="https://www.s-jandhyala.com/" target="_blank">Srividya Jandhyala</a>) [ <a href="https://static1.squarespace.com/static/6481deeed0153f18f9ecde16/t/655798ba353b95256a5d1ca7/1700239547029/cunha_paper.pdf" target="_blank">IPES 2023 Paper</a> ]
+"How Malleable to Elite Cues Are Public Attitudes Towards Foreign Investors?" (with <a href="http://www.quintinbeazer.com/" target="_blank">Quintin Beazer</a>, <a href="https://www.danieljblake.com/" target="_blank">Daniel Blake</a>, and <a href="https://www.s-jandhyala.com/" target="_blank">Srividya Jandhyala</a>) [ <a href="https://static1.squarespace.com/static/6481deeed0153f18f9ecde16/t/655798ba353b95256a5d1ca7/1700239547029/cunha_paper.pdf" target="_blank">IPES 2023 Paper</a> ]
 
 "Dollars, Yuan, and Ideology: Mass Preferences over Sovereign Debt" (with <a href="https://www.iasmingoes.com/" target="_blank">Iasmin Goes</a> and <a href="https://www.carolinamoehlecke.com/" target="_blank">Carolina Moehlecke</a>)<br>
