@@ -12,7 +12,7 @@ cover-img: "/images/wall_st_lund_crop_noir_tonal_tonal.jpg"
 
 ##### MA/MSc
 7SSPP056 Business and Politics<br>
-7SSPN131 Political Economy of Finance
+7SSPN131  Political Economy of Finance
 
 #### Florida State University
 
