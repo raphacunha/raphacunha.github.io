@@ -4,8 +4,7 @@ title: ""
 cover-img: "/images/wall_st_lund_crop_noir_tonal_tonal.jpg"
 ---
 
-#### King's College London
-<br>
+#### King's College London <br>
 
 ##### Undergraduate
 ``6SSPP406`` Political Economy of Global Finance<br>
@@ -15,8 +14,7 @@ cover-img: "/images/wall_st_lund_crop_noir_tonal_tonal.jpg"
 ``7SSPP056`` Business and Politics<br>
 ``7SSPN131`` Political Economy of Finance
 
-#### Florida State University
-<br>
+#### Florida State University <br>
 
 ##### Undergraduate
 ``INR 3933`` Politics of International Financial Crises<br>
