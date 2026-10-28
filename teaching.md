@@ -16,6 +16,10 @@ cover-img: "/images/wall_st_lund_crop_noir_tonal_tonal.jpg"
 
 #### Florida State University
 
-INR 5036: International Political Economy (PhD)<br>
-INR 3933: Politics of International Financial Crises (undergraduate)<br>
-INR 4011: Political Responses to Economic Globalization (undergraduate)
+##### Undergraduate
+``INR 3933`` Politics of International Financial Crises<br>
+``INR 4011`` Political Responses to Economic Globalization
+
+##### PhD
+``INR 5036`` International Political Economy
+
